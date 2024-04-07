@@ -1,1 +1,1 @@
-
+In this repository file of github, the code demonstrates the application of various data analysis and visualization techniques, as well as machine learning algorithms, to analyze agricultural data and to make predictions of crop growth.
