@@ -1,1 +1,2 @@
-
+This repository is about exploring the modern agriculture, precision agriculture stands out as a transformative practice, empowering farmers with informed decisions for optimized farming strategies. This dataset offers a gateway to construct a predictive model, enabling users to recommend the most suitable crops for cultivation in a specific farm based on a multitude of parameters. Through this project, we aim to harness the power of data driven insights to revolutionize crop selection and enhance agricultural productivity.
+Data Source"https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset"
